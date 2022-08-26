@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.89 595.28" style="enable-background:new 0 0 841.89 595.28;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#D41B5B;stroke-width:2;}
+	.st1{fill:none;stroke:#2AABE3;stroke-width:0.75;}
+</style>
+<path id="base-cut-outside" class="st0" d="M86.4,418.03l19.84,19.84h110.55l19.84-19.84v150.23h368.51V418.03l19.84,19.84h110.55
+	l19.84-19.84V177.08l-19.84-19.84H624.98l-19.84,19.84V26.85H236.63v150.23l-19.84-19.84H106.24L86.4,177.08V418.03"/>
+<g id="base-fold">
+	<path id="base-fold-outside-flap-1" class="st1" d="M86.4,418.03h150.23"/>
+	<path id="base-fold-outside-flap-2" class="st1" d="M605.14,418.03h150.23"/>
+	<path id="base-fold-outside-flap-3" class="st1" d="M755.37,177.08H605.14"/>
+	<path id="base-fold-outside-flap-4" class="st1" d="M236.63,177.08H86.4"/>
+	<path id="base-fold-inside" class="st1" d="M236.63,418.03h368.51V177.08H236.63V418.03"/>
+</g>
+</svg>
